@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XG2JN
+- 👋 Hi, I’m XG2JN
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
